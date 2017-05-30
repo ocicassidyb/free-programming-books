@@ -923,7 +923,7 @@
 ### Clojure
 
 * [A Brief Beginner’s Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/)
-* [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html) - R. Mark Volkmann
+* [Clojure - Functional Programming for the JVM](https://objectcomputing.com/resources/publications/sett/march-2009-clojure-functional-programming-for-the-jvm/) - R. Mark Volkmann
 * [Clojure Cheat Sheet](http://clojure.org/cheatsheet)
 * [Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure Distilled Beginner Guide](http://yogthos.github.io/ClojureDistilled.html)
